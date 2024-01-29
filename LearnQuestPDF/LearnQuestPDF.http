@@ -1,0 +1,6 @@
+@LearnQuestPDF_HostAddress = http://localhost:5157
+
+GET {{LearnQuestPDF_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
